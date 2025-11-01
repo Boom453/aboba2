@@ -1,1 +1,6 @@
 ne text
+fd
+f
+df
+df
+d
